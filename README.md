@@ -47,7 +47,7 @@
     ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
     
 </p>
-## My Badges 🪶
+<b> My Badges 🪶</b>
 <div style='display:flex; align-items:center; gap: 10px;' align='left'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
 </div>
