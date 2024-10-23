@@ -52,11 +52,6 @@
     
 </p>
 
-## My Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='left'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-</div>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
