@@ -18,7 +18,7 @@
  <a href="https://github.com/rutikakengal">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a> 
  
-  <a href="https://www.linkedin.com/in/Rutika Kengal/">
+  <a href="https://www.linkedin.com/in/rutika kengal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
