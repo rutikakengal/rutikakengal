@@ -15,12 +15,15 @@
 - ⚡ About Me: *Tech enthusiast and CSE student skilled in programming and innovation*
 - 📍 From **India**
 ## Connect with me 
+
+<div id="badges" align = "left">
  <a href="https://github.com/rutikakengal">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a> 
  
   <a href="https://www.linkedin.com/in/rutika kengal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
