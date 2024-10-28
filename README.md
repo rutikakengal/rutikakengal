@@ -2,7 +2,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Rutika Kengal</h1>
 <h3 align="center">A Passionate Full Stack Web developer | Exploring DSA</h3>
 <br/>
-<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="500"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/>
 
 - 🔭 I’m currently Studying in B-TECH 3rd year CSE
 
@@ -15,7 +15,10 @@
 - ⚡ About Me: *Tech enthusiast and CSE student skilled in programming and innovation*
 - 📍 From **India**
 ## Connect with me 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rutika-kengal-b3b0a22b7/)](www.linkedin.com/in/rutika-kengal-b3b0a22b7/)
+ <a href="https://github.com/rutikakengal">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a> 
+ 
+   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rutika-kengal-b3b0a22b7/)](www.linkedin.com/in/rutika-kengal-b3b0a22b7/)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -89,6 +92,12 @@
 </tr>
 </table>
 </br>
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Data+is+everything..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+effeciently..." alt="Typing SVG"/>
+    </h1>
+</div>
 
 <p align="center">
   <b>Thank you for visiting my profile! Happy Coding!😊</b>
