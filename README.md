@@ -1,3 +1,4 @@
+![Banner](https://github.com/rutikakengal/rutikakengal/blob/main/Rutika%20Kengal%20(2).jpg?raw=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutikakengal&label=Profile%20views&color=0e75b6&style=flat" alt="rutikakengal" /> </p>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Rutika Kengal</h1>
 <h3 align="center">A Passionate Full Stack Web developer | Exploring DSA</h3>
