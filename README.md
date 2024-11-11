@@ -3,7 +3,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Rutika Kengal</h1>
 <h3 align="center">A Passionate Full Stack Web developer | Exploring DSA</h3>
 <br/>
-<img align="right" alt="coding" width="500"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/>
+<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently Studying in B-TECH 3rd year CSE
 
