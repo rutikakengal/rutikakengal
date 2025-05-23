@@ -1,5 +1,13 @@
 ![Banner](https://github.com/rutikakengal/rutikakengal/blob/main/Rutika%20Kengal%20(3).jpg?raw=true)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutikakengal&label=Profile%20views&color=0e75b6&style=flat" alt="rutikakengal" /> </p>
+
+<!-- ============================== -->
+<!-- 👀 Visitor Counter -->
+<!-- ============================== -->
+<h4 align="left">🔄 𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h4>
+<p align="left">
+    <img src="https://profile-counter.glitch.me/adityadomle/count.svg" />
+</p>
+
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Rutika Kengal </h1>
 <h3 align="center">A Passionate Full Stack Web developer | Exploring DSA</h3>
 <br/>
@@ -76,6 +84,18 @@
 
 ## Hacktoberfest 2024 Badges
 [![An image of @rutikakengal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rutikakengal)](https://holopin.io/@rutikakengal)
+
+<!-- ============================== -->
+<!-- 🐍 GitHub Snake Animation -->
+<!-- ============================== -->
+
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</p>
 
 
 
