@@ -96,7 +96,7 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=rutikakengal&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=rutikakengal&theme=midnight-purple" alt="Streak Stats"/>
+  <img width="420em" src="https://streak-stats.demolab.com?user=rutikakengal&theme=midnight-purple" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
