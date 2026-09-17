@@ -12,6 +12,8 @@
 - 💬 Ask me about *Web development, C,C++,PYTHON, OOPS*
   
 - 🌎 I know **English, Hindi, Marathi, and Telugu.**
+ 
+- 🌱 Currently building and developing Myself
   
 - ⚡ About Me: *Tech enthusiast and CSE student skilled in programming and innovation*
 - 📍 From **India**
@@ -84,18 +86,16 @@
 </details>
 </p>
 
-## GSSOC EXT 2024 Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  </a>
+## GSSOC(24) Badges 🪶
+
+<div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=Hemu21">
+<img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/postman.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/1.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/2.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/3.png" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/4.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/5.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/6.png" width="85px" height="85px" />
 </div>
 
 ## Hacktoberfest 2024 Badges
