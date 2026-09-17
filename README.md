@@ -5,7 +5,7 @@
 <br/>
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🔭 I’m currently Studying in B-TECH 3rd year CSE
+- 🎓 B.Tech Computer Science & Engineering Graduate | Class of 2026
 
 - 🌱 I’m currently learning Full Stack Web Development | MERN
   
@@ -13,7 +13,7 @@
   
 - 🌎 I know **English, Hindi, Marathi, and Telugu.**
  
-- 🌱 Currently building and developing Myself
+- 🔭 Currently building and developing Myself
   
 - ⚡ About Me: *Tech enthusiast and CSE student skilled in programming and innovation*
 - 📍 From **India**
